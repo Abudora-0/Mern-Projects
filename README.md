@@ -2,7 +2,7 @@
 
 A showcase of full-stack web applications built with the MERN stack and modern web technologies — all deployed to production.
 
-**Live:** https://mern-projec.netlify.app
+**Live:** [mern-projec.netlify.app](https://mern-projec.netlify.app)
 
 ---
 
